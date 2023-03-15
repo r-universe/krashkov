@@ -1,10 +1,10 @@
 [
   {
-    "package": "SteinerNet",
+    "package": "pcSteiner",
     "oncran": true
   },
   {
-    "package": "pcSteiner",
+    "package": "SteinerNet",
     "oncran": true
   }
 ]
