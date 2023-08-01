@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "pcSteiner"]
-	path = pcSteiner
-	url = https://github.com/krashkov/pcsteiner
 [submodule "SteinerNet"]
 	path = SteinerNet
 	url = https://github.com/krashkov/steinernet
+[submodule "pcSteiner"]
+	path = pcSteiner
+	url = https://github.com/krashkov/pcsteiner
